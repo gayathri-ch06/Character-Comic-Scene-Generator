@@ -1,0 +1,4 @@
+diffusers
+streamlit
+transformers torchvision
+tqdm
