@@ -10,7 +10,7 @@ import io
 
 
 # Authorization Header
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer hf_xxx"}
 
 # Set the device to 'cuda' if a GPU is available, else 'cpu'
 device = "cuda" if torch.cuda.is_available() else "cpu"
